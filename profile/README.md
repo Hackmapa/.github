@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hackmapa Playground : A multi-game platform
+
+Welcome to the repository of the Hackmapa Playground project. You can find the code and the ways to install the project.
+
+The most recent version is actually available at http://79.137.38.151. (WIP)
+
 
 # Figma: 
 https://www.figma.com/file/QlU9XpFfb2rIPzFkyixtyh/HACKMAPA?type=design&node-id=11-42&mode=design
